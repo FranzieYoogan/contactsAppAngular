@@ -1,0 +1,17 @@
+{
+    "users": [
+      { "id": "1", "user_name": "Rodolfo", "user_email": "rodolfo123@gmail.com","use_password": "12345678", "contacts": [
+
+        { "id": "1", "cellphone": "2112345678", "at": "@biruleibes","nickname": "mimozin","email":"biruleibes@gmail.com" }
+
+      ] },
+
+
+      { "id": "2", "user_name": "Joshua", "user_email": "joshua123@gmail.com","use_password": "12345678", "contacts": [
+
+        { "id": "2", "cellphone": "2132165498", "at": "@jaberson","nickname": "jaibin","email":"jaberson321@gmail.com" }
+      ] }
+    ]
+
+  
+  }
